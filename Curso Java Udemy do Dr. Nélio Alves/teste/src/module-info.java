@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Lucas R. Sanches
- *
- */
-module teste {
-}
