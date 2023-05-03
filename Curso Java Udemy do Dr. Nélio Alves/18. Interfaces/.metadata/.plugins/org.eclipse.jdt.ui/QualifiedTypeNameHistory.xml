@@ -10,4 +10,5 @@
     <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
     <fullyQualifiedTypeName name="entities.Contract"/>
     <fullyQualifiedTypeName name="services.OnlinePaymentService"/>
+    <fullyQualifiedTypeName name="services.PaypalService"/>
 </qualifiedTypeNameHistroy>
